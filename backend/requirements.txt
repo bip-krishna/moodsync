@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+opencv-python-headless
+deepface
+tf-keras
+sqlalchemy
+python-dotenv
+ytmusicapi
